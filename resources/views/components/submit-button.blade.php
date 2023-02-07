@@ -1,0 +1,1 @@
+<button class="{{$classes}}" id="{{$id}}" type="{{$type}}">{{$label}}</button>
